@@ -25,10 +25,11 @@ Soy estudiante de **Ingeniería de Software**, apasionado por construir solucion
 ---
 
 ### 📊 Mis Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan12O&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan12O&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan12O&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas generales" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alan12O&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas generales" />
 </p>
