@@ -23,13 +23,19 @@ Soy estudiante de **Ingeniería de Software**, apasionado por construir solucion
 </p>
 
 ---
-
-### 📊 Mis Estadísticas de GitHub
-
+### 🏆 Logros en GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan12O&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Lenguajes más usados" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Alan12O&theme=onedark&column=4&margin-w=15" alt="Mis Trofeos" />
+  </a>
 </p>
 
+---
+
+### 📊 Actividad y Lenguajes
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alan12O&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas generales" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan12O&theme=react-dark" width="100%" alt="Gráfico de actividad" />
 </p>
+
+---
