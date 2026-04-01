@@ -23,14 +23,6 @@ Soy estudiante de **Ingeniería de Software**, apasionado por construir solucion
 </p>
 
 ---
-### 🏆 Logros en GitHub
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Alan12O&theme=onedark&column=4&margin-w=15" alt="Mis Trofeos" />
-  </a>
-</p>
-
----
 
 ### 📊 Actividad y Lenguajes
 
