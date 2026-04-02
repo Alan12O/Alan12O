@@ -24,7 +24,7 @@ Soy estudiante de **Ingeniería de Software**, apasionado por construir solucion
 
 ---
 
-### 📊 Actividad y Lenguajes
+### 📊 Actividad
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan12O&theme=react-dark" width="100%" alt="Gráfico de actividad" />
